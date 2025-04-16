@@ -1,0 +1,48 @@
+[
+    {
+      "EpsActual": 0.71,
+      "EpsForecast": 0.74037,
+      "EpsSurprise": -0.03,
+      "RevenueActual": 25167000000,
+      "RevenueSurprise": -596790000,
+      "RevenueForecast": 25763787850,
+      "EarningReportDate": "2024-01-24T21:15:00Z"
+    },
+    {
+      "EpsActual": 0.45,
+      "EpsForecast": 0.49506,
+      "EpsSurprise": -0.04,
+      "RevenueActual": 21301000000,
+      "RevenueForecast": 22255924550,
+      "RevenueSurprise": -954920000,
+      "EarningReleaseDate": "2024-04-23T20:10:00Z"
+    },
+    {
+      "EpsActual": 0.52,
+      "EpsForecast": 0.62013,
+      "EpsSurprise": -0.1,
+      "RevenueActual": 25500000000,
+      "RevenueForecast": 24740776400,
+      "RevenueSurprise": 759220000,
+      "EarningReleaseDate": "2024-07-24T00:00:00Z"
+    },
+    {
+      "EpsActual": 0.72,
+      "EpsForecast": 0.59756,
+      "EpsSurprise": 0.12,
+      "RevenueActual": 25182000000,
+      "RevenueForecast": 25441566840,
+      "RevenueSurprise": -259570000,
+      "EarningReleaseDate": "2024-10-23T20:09:00Z"
+    },
+    {
+      "EpsActual": 0.73,
+      "EpsForecast": 0.76703,
+      "EpsSurprise": -0.04,
+      "EpsSurprisePercent": -5.1948,
+      "RevenueActual": 25707000000,
+      "RevenueSurprise": -1424760000,
+      "RevenueForecast": 27131755850,
+      "EarningReleaseDate": "2025-01-29T21:09:00Z"
+    }
+]
