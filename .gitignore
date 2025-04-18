@@ -3,3 +3,12 @@ venv/
 project-venv/
 *.whl
 *.sh
+
+# macOS metadata
+.DS_Store
+
+# ignore python cache
+__pycache__/
+
+# ignore Jupyter checkpoint folders
+.ipynb_checkpoints/
